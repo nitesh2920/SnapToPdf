@@ -1,25 +1,36 @@
-```markdown
-# vite_react_shadcn_ts
+# PicToPDF
 
-A Vite-powered React project with Shadcn UI components and TypeScript.
+PicToPDF is a web application that allows users to convert images to PDF files easily. The application is built using TypeScript, CSS, JavaScript, and HTML.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+
+## Features
+
+- Convert images to PDF files.
+- Support for multiple image formats.
+- Easy-to-use interface.
+- Fast and efficient conversion.
 
 ## Installation
 
-Clone this repository and install the dependencies:
+To get started with PicToPDF, follow these steps:
 
-```bash
-git clone https://github.com/your-username/vite_react_shadcn_ts.git
-cd vite_react_shadcn_ts
-npm install
-```
+1. Clone the repository:
 
-## Usage
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Open your browser and navigate to `http://localhost:3000`.
-
+   ```bash
+   git clone https://github.com/nitesh2920/PicToPDF.git
+   cd PicToPDF
+ 
+   ```
+2. Install the dependencie
+    ```
+     npm install
+    ```
+3. Run the development server
+   ```
+   npm run dev
+   ```
+   
