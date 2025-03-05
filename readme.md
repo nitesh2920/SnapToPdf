@@ -1,6 +1,6 @@
-# PicToPDF
+# SnapToPDF
 
-PicToPDF is a web application that allows users to convert images to PDF files easily. The application is built using TypeScript, CSS, JavaScript, and HTML.
+SnapToPDF is a web application that allows users to convert images to PDF files easily. The application is built using TypeScript, CSS, JavaScript, and HTML.
 
 ## Table of Contents
 
